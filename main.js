@@ -8,6 +8,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:cherrycreamco@gmail.com" },
     { title: "GitHub", url: "https://github.com/A-childs-encyclopedia" },
+    // footer: <footer>Copyright © Cherrycream co</footer>
   ],
   background: "#0021ff",
   middlewares: [
