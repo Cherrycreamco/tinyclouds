@@ -9,7 +9,7 @@ blog({
     { title: "Email", url: "mailto:cherrycreamco@gmail.com" },
     { title: "GitHub", url: "https://github.com/A-childs-encyclopedia" },
   ],
-  background: "#0a20b6",
+  background: "#0A20B6",
   middlewares: [
     ga("UA-91675022-1"),
     redirects({
