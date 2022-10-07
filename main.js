@@ -7,7 +7,7 @@ blog({
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:cherrycreamco@gmail.com" },
-    { title: "GitHub", url: "https://github.com/A-childs-encyclopedia" },
+    { title: "GitHub", url: "https://github.com/Cherrycreamco" },
     // footer: <footer>Copyright © Cherrycream co</footer>
   ],
   background: "#0021ff",
