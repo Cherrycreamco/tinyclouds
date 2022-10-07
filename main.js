@@ -1,7 +1,7 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
-  title: "FCL",
+  title: "Friend's Cricket League",
   author: "FCL",
   avatar: "./20221007_062103_0000.jpg",
   avatarClass: "full",
