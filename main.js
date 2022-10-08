@@ -5,7 +5,7 @@ blog({
   author: "FCL",
   avatar: "./20221007_062103_0000.jpg",
   avatarClass: "full",
-  footer: Copyright Cherrycream co,
+  footer: <footer>Copyright Cherrycream co<footer>,
   links: [
     { title: "Email", url: "mailto:cherrycreamco@gmail.com" },
     { title: "GitHub", url: "https://github.com/Cherrycreamco" },
